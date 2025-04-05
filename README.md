@@ -26,7 +26,7 @@
   - Save & view past workouts.
   - **Future additions**: Graphical progress tracking.
 
-🔗 [**View Project Repository**](https://github.com/your-username/gym-strength-tracker)
+🔗 [**View Project Repository**](https://github.com/zackmswim/gym-tracker)
 
 ### 🎯 Ad Click Fraud Dectection (WIP)
 This Python-based tool analyzes advertising click data to identify potentially fraudulent ad interactions. Using statistical analysis and pattern recognition techniques, it helps detect suspicious activities that could indicate click fraud, bot traffic, or other forms of ad fraud.
