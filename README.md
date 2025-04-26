@@ -28,10 +28,11 @@
 
 🔗 [**View Project Repository**](https://github.com/zackmswim/gym-tracker)
 
-### 🎯 Ad Click Fraud Dectection (WIP)
-This Python-based tool analyzes advertising click data to identify potentially fraudulent ad interactions. Using statistical analysis and pattern recognition techniques, it helps detect suspicious activities that could indicate click fraud, bot traffic, or other forms of ad fraud.
+### 🏋️ Powerlifting Performance Explorer
 
-🔗 [**View Project Repository**](https://github.com/zackmswim/ad-click-fraud-detection)
+This Python-based tool analyzes powerlifting data to visualize the relationship between athletes' bodyweight and deadlift performance. Using interactive Plotly visualizations and real-time filtering, it helps identify strength trends and outliers in lifting performance.
+
+🔗 [**View Project Repository**](https://github.com/zackmswim/powerlifting-preswald)
 
 ---
 
